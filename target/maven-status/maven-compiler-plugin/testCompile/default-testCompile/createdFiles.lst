@@ -1,0 +1,4 @@
+br\com\casadocodigo\loja\conf\DataSourceConfigurationTest.class
+br\com\casadocodigo\loja\controllers\ProductsControllerTest$1.class
+br\com\casadocodigo\loja\controllers\ProductsControllerTest.class
+br\com\casadocodigo\loja\daos\ProductDAOTest.class
