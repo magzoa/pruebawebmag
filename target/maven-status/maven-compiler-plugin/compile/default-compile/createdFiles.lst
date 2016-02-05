@@ -10,7 +10,6 @@ br\com\casadocodigo\loja\controllers\HomeController.class
 br\com\casadocodigo\loja\conf\SecurityConfiguration.class
 br\com\casadocodigo\loja\infra\RedirectAfterLogin.class
 br\com\casadocodigo\loja\models\Role.class
-br\com\casadocodigo\loja\models\SystemUser.class
 br\com\casadocodigo\loja\controllers\ProductsController.class
 br\com\casadocodigo\loja\models\User.class
 br\com\casadocodigo\loja\controllers\PaymentController.class

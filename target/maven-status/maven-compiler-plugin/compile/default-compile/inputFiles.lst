@@ -19,7 +19,6 @@ F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\conf\Serv
 F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\infra\RedirectAfterLogin.java
 F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\models\ShoppingCart.java
 F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\models\BookType.java
-F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\models\SystemUser.java
 F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\conf\JPAProductionConfiguration.java
 F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\controllers\HomeController.java
 F:\JAVA\FAC\SPRING\casadocodigo\src\main\java\br\com\casadocodigo\loja\dao\ProductDao.java
